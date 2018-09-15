@@ -1,0 +1,10 @@
+{
+    "name": "disk_space",
+    "version": "1.0.0",
+    "description": "Simple service to get size of folders.",
+    "author": "Bruno Melo <bruno.melo@idor.org>",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    }
+}  
